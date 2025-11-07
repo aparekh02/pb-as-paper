@@ -1,4 +1,4 @@
-# QuLayer: "A Quantum Computational Model Utilizing Quantum Monte Carlo  methods & Grover’s Algorithm for Monitoring & Optimizing Pb-As Pollution of Groundwater Bodies" Paper Code
+"A Quantum Computational Model Utilizing Quantum Monte Carlo  methods & Grover’s Algorithm for Monitoring & Optimizing Pb-As Pollution of Groundwater Bodies" Paper Code
 
 <div align="center">
 
